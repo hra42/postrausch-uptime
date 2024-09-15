@@ -45,7 +45,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-user-agent: hra42/uptime-monitor
+user-agent: hra42-uptime-monitor
 
 i18n:
   footer: "Postrausch Uptime Monitor is powered by <a href='https://upptime.js.org' target='_blank'>Upptime</a>."
