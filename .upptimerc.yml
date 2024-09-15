@@ -5,9 +5,11 @@ sites:
   - name: Server Status V4
     check: "tcp-ping"
     url: $SERVER_IP_V4
+    port: $SERVER_PORT
   - name: Server Status V6
     check: "tcp-ping"
     url: $SERVER_IP_V6
+    port: $SERVER_PORT
 
 assignees:
   - hra42
