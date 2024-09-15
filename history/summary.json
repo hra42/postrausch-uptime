@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.postrausch.tech.ico",
     "slug": "blog-landing-page",
     "status": "up",
-    "uptime": "0.93%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.93%",
-    "uptimeMonth": "0.93%",
-    "uptimeYear": "0.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog - De",
