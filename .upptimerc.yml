@@ -21,6 +21,7 @@ assignees:
 status-website:
   cname: status.postrausch.tech
   logoUrl: https://public-files.postrausch.tech/Postrausch_Logo.png
+  favicon: https://public-files.postrausch.tech/Postrausch_Logo.png
   name: Postrausch Uptime Monitor
   introTitle: "Postrausch Uptime Monitor"
   introMessage: "Monitor the availability of our websites and services"
