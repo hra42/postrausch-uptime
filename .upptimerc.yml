@@ -10,8 +10,6 @@ sites:
     url: https://postrausch.tech
   - name: Blog Landing Page
     url: https://blog.postrausch.tech
-    expectedStatusCodes:
-      - 301
   - name: Blog - De
     url: https://de.blog.postrausch.tech
   - name: Blog - En
