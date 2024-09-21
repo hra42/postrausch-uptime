@@ -27,12 +27,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Blog
-      href: https://blog.postrausch.tech
-    - title: Imprint
-      href: https://postrausch.tech/impressum
-    - title: Privacy Policy
-      href: https://postrausch.tech/datenschutz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
