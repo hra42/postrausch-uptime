@@ -6,14 +6,6 @@ sites:
     check: "tcp-ping"
     url: $SERVER_IP_V4
     port: $SERVER_PORT
-  - name: Website
-    url: https://postrausch.tech
-  - name: Blog Landing Page
-    url: https://blog.postrausch.tech
-  - name: Blog - De
-    url: https://de.blog.postrausch.tech
-  - name: Blog - En
-    url: https://en.blog.postrausch.tech
 
 assignees:
   - hra42
