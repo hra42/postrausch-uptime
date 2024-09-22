@@ -4,17 +4,19 @@
     "url": "$SERVER_IP_V4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 113,
-    "timeWeek": 114,
+    "timeDay": 160,
+    "timeWeek": 115,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   }
 ]
